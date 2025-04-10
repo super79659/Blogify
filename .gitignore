@@ -5,11 +5,6 @@ node_modules/
 # If your secret key is in a file like /config/secret.js
 services/authentication.js
 
-# If you're using any other sensitive model/config files
-models/blog.js
-models/comment.js
-models/user.js
 
-package.json
-package-lock.json
+
 
