@@ -2,8 +2,7 @@
 node_modules/
 .env
 
-# If your secret key is in a file like /config/secret.js
-services/authentication.js
+
 
 
 
